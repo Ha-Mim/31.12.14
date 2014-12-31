@@ -1,0 +1,8 @@
+F:\31.12.12\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+F:\31.12.12\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.SuperShopUI.resources
+F:\31.12.12\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+F:\31.12.12\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+F:\31.12.12\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+F:\31.12.12\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+F:\31.12.12\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+F:\31.12.12\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
