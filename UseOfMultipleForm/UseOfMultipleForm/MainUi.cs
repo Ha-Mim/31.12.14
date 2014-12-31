@@ -17,16 +17,16 @@ namespace UseOfMultipleForm
             InitializeComponent();
         }
 
-        public List<Student> students= new List<Student>(); 
+        public List<Student> Students= new List<Student>(); 
         private void addButton_Click(object sender, EventArgs e)
         {
-            AddItemUI addItem = new AddItemUI(students);
+            AddItemUI addItem = new AddItemUI(Students);
             addItem.Show();
         }
 
         private void viewButton_Click(object sender, EventArgs e)
         {
-            ViewItemUI viewItem = new ViewItemUI(students);
+            ViewItemUI viewItem = new ViewItemUI(Students);
             viewItem.Show();
         }
     }

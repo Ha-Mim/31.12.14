@@ -1,0 +1,12 @@
+E:\31.12.12\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+E:\31.12.12\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.exe
+E:\31.12.12\StudentEntryApp\StudentEntryApp\bin\Debug\StudentEntryApp.pdb
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csprojResolveAssemblyReference.cache
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.Properties.Resources.resources
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.StudentEntryUI.resources
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.csproj.GenerateResource.Cache
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+E:\31.12.12\StudentEntryApp\StudentEntryApp\obj\Debug\StudentEntryApp.pdb
+D:\asp.net\31.12.12\StudentEntryApp - with Dictionary\StudentEntryApp\bin\Debug\StudentEntryApp.exe.config
+D:\asp.net\31.12.12\StudentEntryApp - with Dictionary\StudentEntryApp\obj\Debug\StudentEntryApp.exe
+D:\asp.net\31.12.12\StudentEntryApp - with Dictionary\StudentEntryApp\obj\Debug\StudentEntryApp.pdb

@@ -1,1 +1,12 @@
 F:\31.12.12\UseOfMultipleForm\UseOfMultipleForm\bin\Debug\UseOfMultipleForm.exe.config
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\bin\Debug\UseOfMultipleForm.exe.config
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\bin\Debug\UseOfMultipleForm.exe
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\bin\Debug\UseOfMultipleForm.pdb
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.csprojResolveAssemblyReference.cache
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.AddItemUI.resources
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.MainUI.resources
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.Properties.Resources.resources
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.ViewItemUI.resources
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.csproj.GenerateResource.Cache
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.exe
+D:\asp.net\31.12.12\UseOfMultipleForm\UseOfMultipleForm\obj\Debug\UseOfMultipleForm.pdb
